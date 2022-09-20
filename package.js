@@ -1,7 +1,7 @@
 // package metadata file for Meteor.js
 
 /* eslint-env meteor */
-
+//test
 Package.describe({
   name: 'twbs:bootstrap', // https://atmospherejs.com/twbs/bootstrap
   summary: 'The most popular front-end framework for developing responsive, mobile first projects on the web.',
